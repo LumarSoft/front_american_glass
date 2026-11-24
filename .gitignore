@@ -55,3 +55,7 @@ next-env.d.ts
 *.pfx
 # logs de cualquier herramienta (arriba solo estaban los de npm, yarn y pnpm)
 *.log
+
+# Personal Claude Code notes and settings
+CLAUDE.local.md
+.claude/settings.local.json
