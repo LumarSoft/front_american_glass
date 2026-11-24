@@ -16,6 +16,11 @@ Examples:
 - `fix: correct date format in contact form`
 - `refactor: extract useContactSearch hook from ContactList`
 
+## Branches
+
+- One branch per task, created from an up-to-date `master`: `feat/<short-name>`, `fix/<short-name>`, `chore/<short-name>`
+- Never commit directly to `master`: open a PR and get it reviewed by a teammate
+
 ## Rules
 
 - No commented-out code in any commit
